@@ -1,1 +1,1 @@
-[Demo link](https://friendly-euclid-244768.netlify.com/)
+Check the [demo](https://friendly-euclid-244768.netlify.com/) out.
